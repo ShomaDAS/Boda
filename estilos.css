@@ -21,10 +21,13 @@ body{
 }
 
 #video{
-    display: flex;
+    background-position: center center;
+    background-size: cover;
     margin-top: 0.5rem;
     margin-block-end: 2rem;
     margin: none;
+    display: flex;
+    align-items: center;
 }
 
 /* #frase{
