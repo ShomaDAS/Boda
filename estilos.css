@@ -21,8 +21,9 @@ body{
 }
 
 #video{
-    width: auto;
-    height: auto;
+    background-position: center center;
+    background-size: cover;
+    display: flex;
     margin-top: 0.5rem;
     margin-block-end: 2rem;
     margin: none;
